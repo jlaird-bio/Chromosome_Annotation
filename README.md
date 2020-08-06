@@ -1,6 +1,7 @@
 # Chromosome_Annotation
 
 > This rough script attempts the following:
+
 > NOTE: This program purposefully does not use formatters as an experiment in programming efficiency
 
 1. Using a chromosome and its coordinates this program finds its corresponding annotation
